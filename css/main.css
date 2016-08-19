@@ -1,0 +1,20 @@
+#output {
+    float:right;
+    border: 1px solid lightblue;
+    border-radius: 15px;
+    width:200px;
+    height:400px;
+    padding: 10px;
+    margin: 40px 0px 0px 0px;
+
+}
+#container {
+    float:left;
+}
+
+#page-content{
+    width: 700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
